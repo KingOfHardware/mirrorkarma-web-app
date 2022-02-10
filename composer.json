@@ -1,0 +1,14 @@
+{
+  "name": "rogergerecke/mirrorkarma-web-app",
+  "description": "Dein leicht zu Installierende Karma Spiegel",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Roger Gerecke",
+      "email": "roger.gerecke@kingofhardware.de"
+    }
+  ],
+  "require": {
+  }
+}
